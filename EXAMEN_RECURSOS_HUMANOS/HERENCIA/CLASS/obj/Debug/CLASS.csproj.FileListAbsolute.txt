@@ -1,0 +1,12 @@
+C:\Users\josez\source\repos\HERENCIA\CLASS\bin\Debug\CLASS.dll
+C:\Users\josez\source\repos\HERENCIA\CLASS\bin\Debug\CLASS.pdb
+C:\Users\josez\source\repos\HERENCIA\CLASS\obj\Debug\CLASS.csprojAssemblyReference.cache
+C:\Users\josez\source\repos\HERENCIA\CLASS\obj\Debug\CLASS.csproj.CoreCompileInputs.cache
+C:\Users\josez\source\repos\HERENCIA\CLASS\obj\Debug\CLASS.dll
+C:\Users\josez\source\repos\HERENCIA\CLASS\obj\Debug\CLASS.pdb
+C:\Users\josez\OneDrive\Escritorio\HERENCIA-20210223T045537Z-001\HERENCIA\CLASS\bin\Debug\CLASS.dll
+C:\Users\josez\OneDrive\Escritorio\HERENCIA-20210223T045537Z-001\HERENCIA\CLASS\bin\Debug\CLASS.pdb
+C:\Users\josez\OneDrive\Escritorio\HERENCIA-20210223T045537Z-001\HERENCIA\CLASS\obj\Debug\CLASS.csprojAssemblyReference.cache
+C:\Users\josez\OneDrive\Escritorio\HERENCIA-20210223T045537Z-001\HERENCIA\CLASS\obj\Debug\CLASS.csproj.CoreCompileInputs.cache
+C:\Users\josez\OneDrive\Escritorio\HERENCIA-20210223T045537Z-001\HERENCIA\CLASS\obj\Debug\CLASS.dll
+C:\Users\josez\OneDrive\Escritorio\HERENCIA-20210223T045537Z-001\HERENCIA\CLASS\obj\Debug\CLASS.pdb
